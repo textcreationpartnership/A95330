@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Trust a papist and trust the Devill, or, no vvit to a womans: a reall relation of a romish priest, who to obtain his desire upon a married wife, not far from Yorke, would fain have perswaded her, that adultery was but a veniall sin, with a copy of a letter from the recusant to the woman, also her answer to it, and she revealing it to her husband. Also the manner how the husband with some of his neighbours did use this priest comming to tempt his wife in their owne house, first they whipt him about the chamber, and afterward gelded him, as a most just recompence for his lasciviousnesse. As also, how a witty maid served a romish Catholique about the like matter, making him to fall into a river, where he scarce escaped drowning.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95330</idno>
+            <idno type="STC">Wing T3147</idno>
+            <idno type="STC">Thomason E135_20</idno>
+            <idno type="STC">ESTC R19605</idno>
+            <idno type="EEBO-CITATION">99860702</idno>
+            <idno type="PROQUEST">99860702</idno>
+            <idno type="VID">156440</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95330)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156440)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 24:E135[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Trust a papist and trust the Devill, or, no vvit to a womans: a reall relation of a romish priest, who to obtain his desire upon a married wife, not far from Yorke, would fain have perswaded her, that adultery was but a veniall sin, with a copy of a letter from the recusant to the woman, also her answer to it, and she revealing it to her husband. Also the manner how the husband with some of his neighbours did use this priest comming to tempt his wife in their owne house, first they whipt him about the chamber, and afterward gelded him, as a most just recompence for his lasciviousnesse. As also, how a witty maid served a romish Catholique about the like matter, making him to fall into a river, where he scarce escaped drowning.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W.R.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>in the year 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Royal arms verso of t.p.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholics --  England --  Controversial literature --  Early works to 1800.</term>
+               <term>Great Britain --  Religion --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156440:1"/>
+            <!-- PDF PAGE 56 -->
+            <pb facs="tcp:156440:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 56 -->
+            <p>Truſt a Papiſt and truſt the Devill, <hi>Or,</hi> No vvit to a Womans: A reall Relation of a Romiſh Prieſt, who to obtain his deſire upon a married Wife, not far from <hi>Yorke,</hi> would fain have perſwaded her, that Adultery was but a veniall ſin, with a copy of a Letter from the Recuſant to the Woman, alſo her Anſwer to it, and ſhe revealing it to her Husband.</p>
+            <p>Alſo the manner how the Husband with ſome of his Neighbours did uſe this Prieſt comming to tempt his Wife in their owne houſe, firſt they whipt him about the chamber, and after<g ref="char:EOLhyphen"/>ward gelded him, as a moſt juſt recompence for his laſciviouſneſſe.</p>
+            <p>As alſo, how a witty Maid ſerved a Romiſh Catholique about the like matter, making him to fall into a River, where he ſcarce eſcaped drowning.</p>
+            <p>Printed for <hi>W R.</hi> in the year 1642.</p>
+         </div>
+         <div type="frontispiece">
+            <p>
+               <figure>
+                  <p>HONI SOIT QVI MAL Y PENSE</p>
+                  <figDesc>royal English blazon or coat of arms</figDesc>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:156440:2"/>
+            <!-- PDF PAGE 57 -->
+            <pb n="1" facs="tcp:156440:2"/>
+            <!-- PDF PAGE 57 -->
+            <head>THE LASCIVIOVS FRIER.</head>
+            <p>
+               <seg rend="decorInit">N</seg>Or farre from the Citie of <hi>Yorke,</hi> there dwelt an honeſt man, who had a very handſome proper wo<g ref="char:EOLhyphen"/>man to his Wife, and which is ſtrange, ſhe was as honeſt as fair, as the ſequell of the ſtory plainly ſheweth.</p>
+            <p>A certain Prieſt lighting in the Towne, was go<g ref="char:EOLhyphen"/>ing up to his Chamber, ſaw this honeſt woman come into the houſe for a pot of ſtrong beer for her Husband that was newly come from his worke. My man, who was ſo weary before, as he could ſcarce go up the ſtaires, (as he made mine Hoſt beleeve) at this beautifull object, was as nimble as <hi>Mercurie,</hi> and went not up ſo ſoftly, but came downe as faſte; ſo magneticke was the beauty of this Female. Being come downe the paſſionate man as one that could not
+<pb facs="tcp:156440:3"/>
+               <!-- PDF PAGE 58 -->
+               <pb n="1" facs="tcp:156440:3"/>
+               <!-- PDF PAGE 58 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:156440:4"/>
+               <!-- PDF PAGE 59 -->bridle his nature, preſently layes her on the lippes, and calles for a quart of wine, and ſweares ſhe muſt needs drinke ere ſhe went; the woman prayes to be excuſed, ſhe could not tarry, and ſhe was loath to incur her Husbands diſpleaſure for any man; but upon much intreaty, reſolving to dye rather than yeeld to any baſeneſſe, ſaid, ſhe would pledge him, on condition he would then let her go: this hypo<g ref="char:EOLhyphen"/>theticall propoſition, though it had no ſympathy with his deſires, yet rather than he would prevent a future happineſſe, condiſcends (though faintly) and begins thus to her in a full bowle. Fair Miſtris, from the bottom of my heart, as one admiring your perfections, I drinke to you. Sir quoth ſhe, (after ſhe had pledged him) you are too deep for me, and therefore leaſt you drowne me, farewell. And ſo ab<g ref="char:EOLhyphen"/>ruptly without further thankes, took her leave. But my Gentleman being well read in the theory of her beauty, could not reſt ſatisfied, till he had enjoyed the practick. And ſo once more aſcends the ſtaires, all male-content, where we will leave him to his im<g ref="char:EOLhyphen"/>ploring of the Pope for his redemption out of that Purgatory. <hi>Sub Galli cantum,</hi> as ſoon as the day ap<g ref="char:EOLhyphen"/>peared the next morning, up he riſes, and calling for pen, inke, and paper, writes thus to his adored ſaint, the woman I mean, he dranke with the night before.</p>
+            <pb n="3" facs="tcp:156440:4"/>
+            <!-- PDF PAGE 59 -->
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>The Letter and true Copy of it.</head>
+                  <p>FAir Miſtris, having but a little taſted of your beauty, as one ſicke of a Dropſie, I extremely thirſt for more; and therefore tendring mine owne welfare, and preſu<g ref="char:EOLhyphen"/>ming of your indulgency, that you will not let me periſh for want of drinke, I make bold to requeſt your preſence once more. And leaſt you ſhould doubt my payment, I have here incloſed, ſent you a ſmall token of my love, which I pray you to accept, and ſo I reſt </p>
+                  <closer>
+                     <signed>yours, or not mine owne, T. C.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>This Lettter was delivered to the Chamberlain, who in all haſte (as he was commanded) gives it the woman, who calling for her Husband ſhewes it him: and ſo he read it: when he had done, and had fully underſtood the contents, applauding his Wife for her conſtancy, with mutuall conſent, returnes him this anſwer, as written from his Wife.</hi>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>Her Anſwer.</head>
+                  <p>
+                     <hi>SIr, but that the place was neither ſo convenient, nor the time ſo opportune for me to have expreſsed my love to you; truly I could not have ſmothered the flames of
+<pb n="4" facs="tcp:156440:5"/>
+                        <!-- PDF PAGE 60 -->it as I did; but if you pleaſe Sir, to make bold with my houſe this night, you ſhall enjoy that which I ever held as dear as my life, And ſo I reſt </hi>
+                  </p>
+                  <closer>
+                     <signed>yours, A. C.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>This being come to him, and read, never was poor Mariner in a ſtorme more joyfull when he had got his Ship in a ſafe Port, than he was of this Letter: and therefore without procraſtinating, as ſoon as ever night was come, he repares to his beloved, whom he findes all alone, and after ſome few embra<g ref="char:EOLhyphen"/>ces, ſhe conducts him to a chamber. O the raptures that this man was in! <hi>Iaſon</hi> thought not himſelfe more happy in the fruition of <hi>Madea,</hi> than he by en<g ref="char:EOLhyphen"/>joying her company.</p>
+            <p>But <hi>Sodomes</hi> Apples though they appear like gold, when a man would taſte of them they vaniſh into ſmoake: ſo it hapned to this gaol-like Prieſt, for this bitter <hi>Pocanium</hi> marred all the ſweetneſſe he taſt<g ref="char:EOLhyphen"/>ed afore. Before ſhe would ſeem to grant, ſhe prayed him to reſolve her, if the ſin were pardonoble or no. Tuſh, quoth he, nothing more veniall, fear not ſweet heart, I warrant thee. Well, if it be ſo Sir, pray to bed, and I will come to you. To bed he goes imme<g ref="char:EOLhyphen"/>diately, but before he was ſcarce warme, in ruſhes her Husband with two more, well armed with good whips, and ſo taking him out of the bed, pulling his ſhirt over his eares, did ſo whip his poſteriours, that my man look'd juſt like the bloody man in our Al<g ref="char:EOLhyphen"/>manacks, wounded by the twelve Signes; whiles the Woman jearing him, bid them have a care that he
+<pb n="5" facs="tcp:156440:5"/>
+               <!-- PDF PAGE 60 -->got not cold, for he was extreme hot. The Prieſt cried out pitifully, but it would not ſerve the turne; for when they had done, they tied him to the bed, and made a Capon of him, cutting out his ſtones, to cool his courage. Were all Romiſh Prieſts ſo hand<g ref="char:EOLhyphen"/>led, they would ſay Marriage were lawfull, and no more abuſe other mens Wives.</p>
+            <div type="part">
+               <head>A maid making a Roman-Catholique to fall into a River, and to ſcape drowning narrowly.</head>
+               <p>THere was likewiſe a pretty maid not farre off that place, and much about the ſame time, who being ſolicited to folly by another Catholique (but not a Prieſt) when no anſwer would ſerve the turne, promiſed him fair, and ſaid, ſhe would meet him the next day in a meadow not far from her fathers houſe, and then they would conclude of that which ſhould be wel-liking to them both. The time come, away ſhe got before, and paſſeth over a River which parted the meadow, and then takes off the bridge, and lets it drive with the ſtreame. My Youth comming asked her how ſhe got over, I came in another way ſaid ſhe, but pray do you leap over, for I am in halfe. I, that I will ſweet heart, and over thee too anon, and ſo fetch<g ref="char:EOLhyphen"/>ing his run, leap'd into a quagmire up to the middle and more; crying, prithee Love helpe me, but ſhe laughing at him, and telling he was hot of a burning Feaver, left him to get out as he could.</p>
+               <pb n="4" facs="tcp:156440:6"/>
+               <!-- PDF PAGE 61 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="5" facs="tcp:156440:6"/>
+               <!-- PDF PAGE 61 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
